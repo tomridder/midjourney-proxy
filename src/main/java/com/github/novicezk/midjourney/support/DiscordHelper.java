@@ -16,7 +16,7 @@ public class DiscordHelper {
 	/**
 	 * DISCORD_CDN_URL.
 	 */
-	public static final String DISCORD_CDN_URL = "https://cdn.discordapp.com";
+	public static final String DISCORD_CDN_URL = "https://3.5.gpt.api.vtstg233.cc:9091";
 	/**
 	 * DISCORD_WSS_URL.
 	 */
